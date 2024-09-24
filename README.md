@@ -23,3 +23,17 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## Local Development
+
+AWS Amplify Sandbox for back-end local development:
+
+```
+npx ampx sandbox --profile <aws-profile>
+```
+
+Localhost front-end dev:
+
+```
+npm run dev
+```
